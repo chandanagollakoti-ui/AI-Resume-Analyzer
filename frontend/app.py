@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from datetime import datetime
 
-BACKEND_URL = "http://127.0.0.1:8000/upload"
+BACKEND_URL = "https://ai-resume-analyzer-ks1y.onrender.com/upload"
 
 # ==================================
 # PAGE CONFIG
